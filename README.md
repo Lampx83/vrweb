@@ -1,6 +1,6 @@
 # VRWEB
 
-Đây là mã nguồn và cấu hình triển khai của dự án **VRWEB**, một ứng dụng web thực tế ảo viết bằng Unity
+Đây là mã nguồn và cấu hình triển khai của dự án **VRWEB**, một ứng dụng web thực tế ảo viết bằng Unity.
 
 ## 🚀 Tính năng
 
